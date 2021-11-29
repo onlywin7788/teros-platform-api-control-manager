@@ -1,4 +1,3 @@
-
 ============================================
-TEROS API-CONTROL-MANAGER
+TEROS Platform API-Control-Manager
 ============================================
